@@ -1,0 +1,1 @@
+select * from workspace.default.suurimmatkaupungit limit 20 
